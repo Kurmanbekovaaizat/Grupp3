@@ -5,7 +5,7 @@
 #include <cv.h>
 
 using namespace cv;
-using namespace std;
+using namespace std; 
 
 int main() {
     Mat img = cvLoadImage("/home/aizat/IG/pervoe.jpg");
